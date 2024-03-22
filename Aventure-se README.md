@@ -9,6 +9,7 @@ O curso de Programação para Engenharia é uma jornada emocionante que irá lev
 Programação Estruturada e Orientada a Objetos: os alicerces do desenvolvimento de software.
 Algoritmos e Estruturas de Dados: as ferramentas essenciais para resolver problemas complexos.
 Desenvolvimento de Aplicações Reais: projetos práticos que colocarão seus conhecimentos em ação.
+
 📚 Conteúdo do Curso
 Introdução à Programação
 
@@ -30,10 +31,12 @@ Desenvolvimento de Aplicações
 
 Projetos práticos
 Resolução de problemas de engenharia
+
 🛠️ Recursos Adicionais
 Exercícios de Programação
 Material de Apoio
 Projetos Práticos
+
 👨‍💻 Como Contribuir
 Este curso é uma comunidade em constante evolução. Sinta-se à vontade para contribuir com novos materiais, correções ou sugestões de melhorias. Juntos, podemos tornar este curso ainda mais incrível!
 
