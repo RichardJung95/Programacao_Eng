@@ -5,12 +5,13 @@ Bem-vindo ao repositório da disciplina de Programação para Engenharia! Aqui v
 Sobre a Disciplina
 A disciplina de Programação para Engenharia é como um foguete que te levará até as estrelas do mundo da programação! 🚀
 
-Objetivos
-Aprender os fundamentos da programação como quem aprende a dançar: passo a passo, mas com muito ritmo! 💃🕺
-Desenvolver habilidades de resolução de problemas que fazem os super-heróis da Marvel parecerem iniciantes. 💪
-Compreender como a programação é a "cola" que une a matemática, a lógica e a criatividade. 🧩
-Conteúdo
-Introdução à Programação
+-Objetivos
+*Aprender os fundamentos da programação como quem aprende a dançar: passo a passo, mas com muito ritmo! 💃🕺
+*Desenvolver habilidades de resolução de problemas que fazem os super-heróis da Marvel parecerem iniciantes. 💪
+*Compreender como a programação é a "cola" que une a matemática, a lógica e a criatividade. 🧩
+
+-Conteúdo
+*Introdução à Programação
 
 Como uma receita de bolo, só que para criar software. 🎂
 Ambientes de desenvolvimento: escolhendo sua "arena" de batalha. ⚔️
